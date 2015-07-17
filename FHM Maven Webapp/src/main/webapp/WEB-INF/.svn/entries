@@ -1,0 +1,71 @@
+9
+
+dir
+2
+https://kklcode:8443/svn/OTM/src/main/webapp/WEB-INF
+https://kklcode:8443/svn/OTM
+
+
+
+2015-07-13T03:01:19.062500Z
+2
+lpc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bebe3030-9071-8646-be34-55a7f0a3dcac
+
+lib
+dir
+
+jsp
+dir
+
+web.xml
+file
+
+
+
+
+2015-07-13T03:14:24.562500Z
+081f94e7540dc61e6a4ae2f330abb971
+2015-07-13T03:01:19.062500Z
+2
+lpc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4031
+
+classes
+dir
+

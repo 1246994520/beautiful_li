@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/role
+END
+role_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/role/role_edit.jsp
+END
+role_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/role/role_add.jsp
+END
+role_button.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/role/role_button.jsp
+END
+role_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/role/role_list.jsp
+END

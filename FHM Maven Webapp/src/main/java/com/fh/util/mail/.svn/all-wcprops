@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/OTM/!svn/ver/2/src/main/java/com/fh/util/mail
+END
+MailSenderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/OTM/!svn/ver/2/src/main/java/com/fh/util/mail/MailSenderInfo.java
+END
+MyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/OTM/!svn/ver/2/src/main/java/com/fh/util/mail/MyAuthenticator.java
+END
+SimpleMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/OTM/!svn/ver/2/src/main/java/com/fh/util/mail/SimpleMailSender.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head
+END
+productCode.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head/productCode.jsp
+END
+send_sms.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head/send_sms.jsp
+END
+edit_email.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head/edit_email.jsp
+END
+send_email.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head/send_email.jsp
+END
+sys_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/head/sys_edit.jsp
+END

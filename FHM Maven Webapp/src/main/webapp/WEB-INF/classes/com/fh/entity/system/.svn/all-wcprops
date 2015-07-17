@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/com/fh/entity/system
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/com/fh/entity/system/User.class
+END
+Role.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/com/fh/entity/system/Role.class
+END
+Menu.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/com/fh/entity/system/Menu.class
+END

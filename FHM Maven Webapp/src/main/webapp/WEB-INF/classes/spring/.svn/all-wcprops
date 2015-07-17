@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/spring
+END
+ApplicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/spring/ApplicationContext.xml
+END
+ApplicationContext-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/spring/ApplicationContext-mvc.xml
+END

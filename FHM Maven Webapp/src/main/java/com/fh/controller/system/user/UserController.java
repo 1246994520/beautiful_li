@@ -67,7 +67,7 @@ public class UserController extends BaseController {
 	 * 保存用户
 	 */
 	@RequestMapping(value="/saveU")
-	public ModelAndView saveU(PrintWriter out) throws Exception{
+	public ModelAndView saveU() throws Exception{
 		ModelAndView mv = this.getModelAndView();
 		PageData pd = new PageData();
 		pd = this.getPageData();

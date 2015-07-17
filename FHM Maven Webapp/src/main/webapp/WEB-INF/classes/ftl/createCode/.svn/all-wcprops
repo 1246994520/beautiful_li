@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode
+END
+jsp_edit_Template.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/jsp_edit_Template.ftl
+END
+serviceTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/serviceTemplate.ftl
+END
+controllerTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/controllerTemplate.ftl
+END
+mysql_SQL_Template.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/mysql_SQL_Template.ftl
+END
+oracle_SQL_Template.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/oracle_SQL_Template.ftl
+END
+docTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/docTemplate.ftl
+END
+jsp_list_Template.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/jsp_list_Template.ftl
+END
+mapperMysqlTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/mapperMysqlTemplate.ftl
+END
+mapperOracleTemplate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/classes/ftl/createCode/mapperOracleTemplate.ftl
+END

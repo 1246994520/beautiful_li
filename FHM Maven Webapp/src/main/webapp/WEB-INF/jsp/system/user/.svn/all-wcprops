@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/user
+END
+uploadexcel.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/user/uploadexcel.jsp
+END
+user_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/user/user_list.jsp
+END
+user_tb_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/user/user_tb_list.jsp
+END
+user_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/system/user/user_edit.jsp
+END

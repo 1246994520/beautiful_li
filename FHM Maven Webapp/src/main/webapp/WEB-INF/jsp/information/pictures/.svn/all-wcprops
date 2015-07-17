@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/information/pictures
+END
+pictures_add.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_add.jsp
+END
+pictures_list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_list.jsp
+END
+pictures_edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/OTM/!svn/ver/2/src/main/webapp/WEB-INF/jsp/information/pictures/pictures_edit.jsp
+END
